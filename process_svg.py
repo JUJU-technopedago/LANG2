@@ -83,4 +83,5 @@ def update_svg(levels):
     output_svg = 'static/updated_HEXA.svg'  # Output SVG file in the static directory
     tree.write(output_svg)
 
-    return output_svg
+    # Return the correct path for GitHub Pages
+    return '/static/updated_HEXA.svg'
