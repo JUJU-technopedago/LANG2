@@ -1,0 +1,4 @@
+Flask==2.3.2        # Flask for the web application
+lxml==4.9.3         # lxml for SVG parsing and manipulation
+numpy==1.25.0       # numpy for numerical operations, particularly for calculating angles and points
+matplotlib==3.7.2   # Optional: matplotlib if you want to add additional plotting or charting capabilities
